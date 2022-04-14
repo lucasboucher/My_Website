@@ -1,1 +1,2 @@
 TODO graphical charter button
+TODO responsive bug for little screen at the bottom 
