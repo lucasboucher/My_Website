@@ -1,2 +1,6 @@
-TODO graphical charter button
-TODO responsive bug for little screen at the bottom 
+TODO version anglaise
+TODO version claire
+
+v2:
+TODO plus de contenus : projets, ...
+TODO revenir vers le haut

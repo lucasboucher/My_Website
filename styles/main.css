@@ -7,8 +7,7 @@ body {
     background-color: #03080F;
     color: white;
     font-family: 'Quicksand', sans-serif;
-    margin-left: 50px;
-    margin-top: 50px;
+    margin: 50px;
 }
 
 a {
@@ -58,14 +57,14 @@ a {
     }
 
     .content {
-        gap: 150px;
+        gap: 125px;
     }
   }
   
   /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
   @media screen and (max-width: 600px) {
     h2 {
-        font-size: 2em;
+        font-size: 1.75em;
         margin-bottom: 15px;
     }
     
