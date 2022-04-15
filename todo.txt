@@ -1,5 +1,6 @@
 TODO version anglaise
 TODO version claire
+TODO favicon
 
 v2:
 TODO plus de contenus : projets, ...
